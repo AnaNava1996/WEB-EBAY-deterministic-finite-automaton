@@ -4,3 +4,6 @@ has a menu where you can choose between analysing a txt file or writing your own
 You can see the states of the automaton in the webay.png file
 
 This kind of algorithm are useful to find words in a text, and it's location
+
+References:
+hopcroft, introduction to automata theory languages and computation, page 71
